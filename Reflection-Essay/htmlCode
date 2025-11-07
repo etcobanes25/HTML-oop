@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>OOP The Reflection Essay</title>
+</head>
+<body>
+    <h1>Essay: Intro to Web Development</h1>
+    <h2>By: Etcobanes Luieme M.</h2>
+    <hr>
+    <p> When I first learned about HTML, it was very new to me. <br> 
+        At first, I thought it was a programming language, but it is not. <br>
+        When our instructor introduced HTML to us, I was surprised that it is called a language but not a programming language. <br> 
+        I got a little confused at first because I thought all computer languages were used for programming. <br> 
+        I also realized that you cannot just type anything in HTML without understanding its logic and structure. </p>
+
+    <p> I found out that even if HTML is not a programming language. <br>
+        it is very important because it builds the structure of all web pages, like Facebook, YouTube, Google, or TikTok <br>
+        It is like the skeleton of a house without it, the website would not have shape or form. <br>
+        I also learned that HTML uses tags to create different parts of a webpage. Each tag has a special job. <br>
+        For example, the (p) for paragraph (h) for headings (br) tag is used to break a line, like pressing “Enter” to move text to the next line. <br>
+        I understood that writing the tags correctly is very important because even a small mistake can affect how the website looks. <br>
+    </p>
+    
+    <p> Now that I know a little about HTML, I want to create my own webpage in the future. <br>
+        I want to learn more about HTML and also study other web technologies like CSS to make my website look more beautiful and creative. <br>
+        Learning HTML made me excited to explore more about web development and how websites are built from scratch.
+    </p>
+</body>
+</html>
